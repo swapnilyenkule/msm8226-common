@@ -54,9 +54,7 @@ ro.use_data_netmgrd=false
 persist.sys.ssr.enable_debug=0
 
 # Sensors
-ro.qc.sdk.gestures.camera=false
-ro.qc.sdk.camera.facialproc=false
-ro.qc.sdk.sensors.gestures=true
+debug.sensors=1
 
 # Time
 persist.timed.enable=true
